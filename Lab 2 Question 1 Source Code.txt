@@ -1,0 +1,14 @@
+//Valdes, Brandon
+//Lab #2 Question 1
+//This program prints out my name.
+
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+cout << "My name is Brandon Valdes.";
+
+return 0;
+}
